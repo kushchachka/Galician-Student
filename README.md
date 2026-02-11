@@ -1,2 +1,1 @@
 "# Galician-Student" 
-"# Galician-Student" 
